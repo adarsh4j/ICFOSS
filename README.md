@@ -21,3 +21,6 @@ This repository contains the authentication system for the **International Centr
    ```bash
    git clone https://github.com/adarsh4j/ICFOSS.git
 
+# About ICFOSS
+
+The International Centre for Free and Open Source Software (ICFOSS) is an autonomous institution that promotes the adoption and development of free and open-source software for various domains.
